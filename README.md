@@ -6,7 +6,7 @@ Help with the PlanMyTrip beta:
   
   [Deliverable 2:](https://github.com/jzebker/World_Weather_Analysis/tree/main/vacation_search) Have the beta testers use input statements to filter the data for their weather preferences and use these preferences to identify potential travel destinations and nearby hotels.
   
-  (Deliverable 3) Have the beta tester choose four cities to create a travel itinerary and, using the Google Maps Directions API, create a travel route between the four cities as well as a marker layer map.
+  [Deliverable 3:](https://github.com/jzebker/World_Weather_Analysis/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.png) Have the beta tester choose four cities to create a travel itinerary and, using the Google Maps Directions API, create a travel route between the four cities as well as a marker layer map.
   
 ## [Deliverable 1](https://github.com/jzebker/World_Weather_Analysis/tree/main/weather_database)
 <p align="center">
@@ -30,3 +30,4 @@ Help with the PlanMyTrip beta:
 
 • uses Maps API Nearby Search (https://maps.googleapis.com/maps/api/place/nearbysearch/) and adds the most [prominent](https://github.com/jzebker/World_Weather_Analysis/blob/main/readme_pics/hotel_method.png) hotel within the given radius
 
+## [Deliverable 3](https://github.com/jzebker/World_Weather_Analysis/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.png)
