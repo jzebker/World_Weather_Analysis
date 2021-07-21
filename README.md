@@ -28,5 +28,5 @@ Help with the PlanMyTrip beta:
 
 • filters data by user input for desired maximum temperature in °F
 
-• uses Maps API Nearby Search (https://maps.googleapis.com/maps/api/place/nearbysearch/) and adds the first listed hotel name to the map marker; hotel names are listed by prominence
+• uses Maps API Nearby Search (https://maps.googleapis.com/maps/api/place/nearbysearch/) and adds the first listed hotel name to the map marker; hotel names are listed by [prominence](https://github.com/jzebker/World_Weather_Analysis/blob/main/readme_pics/hotel_method.png)
 
