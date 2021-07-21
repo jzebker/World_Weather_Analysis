@@ -31,3 +31,6 @@ Help with the PlanMyTrip beta:
 • uses Maps API Nearby Search (https://maps.googleapis.com/maps/api/place/nearbysearch/) and adds the most [prominent](https://github.com/jzebker/World_Weather_Analysis/blob/main/readme_pics/hotel_method.png) hotel within the given radius
 
 ## [Deliverable 3](https://github.com/jzebker/World_Weather_Analysis/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.png)
+<p align="center">
+  <img width="1005" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/84994321/126565747-dda9369c-e651-4d6a-b9f3-d5c65e807f05.png">
+</p>
