@@ -9,3 +9,6 @@ Help with the PlanMyTrip beta:
   (Deliverable 3) Have the beta tester choose four cities to create a travel itinerary and, using the Google Maps Directions API, create a travel route between the four cities as well as a marker layer map.
   
 ## Deliverable 1
+<p align="center">
+  <img width="716" alt="deliverable1" src="https://user-images.githubusercontent.com/84994321/126562427-b5815dd6-42dd-4031-94df-aea1952d90de.png">
+</p>
