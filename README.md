@@ -34,3 +34,9 @@ Help with the PlanMyTrip beta:
 <p align="center">
   <img width="1005" alt="WeatherPy_travel_map" src="https://user-images.githubusercontent.com/84994321/126565747-dda9369c-e651-4d6a-b9f3-d5c65e807f05.png">
 </p>
+
+***Notes***: 
+
+• after choosing 4 geographically close cities, uses Directions API (https://developers.google.com/maps/documentation/directions/overview) to find route between them
+
+• cities must have a route between them, for example, maps was unable to find directions in New Caledonia 
