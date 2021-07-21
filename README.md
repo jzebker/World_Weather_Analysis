@@ -14,9 +14,10 @@ Help with the PlanMyTrip beta:
 </p>
 
 ***Notes***: 
+
 • uses CitiPy to find the city nearest each set of coordinates in an array of 2,000 randomly generated latitudes and longitudes
 
-• retrieves data with OpenWeatherMap API ("http://api.openweathermap.org")
+• retrieves data with OpenWeatherMap API (http://api.openweathermap.org)
 
 ## [Deliverable 2](https://github.com/jzebker/World_Weather_Analysis/tree/main/vacation_search)
 <p align="center">
