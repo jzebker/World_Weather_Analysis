@@ -15,7 +15,7 @@ Help with the PlanMyTrip beta:
 
 ***Notes***: 
 
-• uses CitiPy to find the city nearest each set of coordinates in an array of 2,000 randomly generated latitudes and longitudes
+• uses CitiPy to find the closest city to each set of coordinates in an array of 2,000 randomly generated latitudes and longitudes
 
 • retrieves data with OpenWeatherMap API (http://api.openweathermap.org)
 
@@ -23,3 +23,9 @@ Help with the PlanMyTrip beta:
 <p align="center">
   <img width="716" alt="deliverable1" src="https://user-images.githubusercontent.com/84994321/126563604-3ecf0645-4a0f-4f41-a40d-da96aa25fd75.png">
 </p>
+
+***Notes***: 
+
+• filters data by user input for desired maximum temperature in °F
+
+• uses Maps API Nearby Search (https://maps.googleapis.com/maps/api/place/nearbysearch/) and adds the first listed hotel name to the map marker; they are listed by [prominence](![hotel_method](https://user-images.githubusercontent.com/84994321/126564487-13c6f5ef-a7a5-4cbd-9dfc-5be2e8d6a213.png))
