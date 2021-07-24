@@ -37,6 +37,6 @@ Help with the PlanMyTrip beta:
 
 ***Notes***: 
 
-• after choosing 4 geographically close cities, uses Directions API (https://developers.google.com/maps/documentation/directions/overview) to find route between them
+• after [choosing 4](https://github.com/jzebker/World_Weather_Analysis/blob/main/readme_pics/pick4cities.png) geographically close cities, uses Directions API (https://developers.google.com/maps/documentation/directions/overview) to find route between them
 
 • cities must have a route between them; for example, maps was unable to find directions in [New Caledonia](https://github.com/jzebker/World_Weather_Analysis/blob/main/readme_pics/newcaledonia.png) or [across the Atlantic](https://github.com/jzebker/World_Weather_Analysis/blob/main/readme_pics/nooceans.png)
